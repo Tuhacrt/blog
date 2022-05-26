@@ -1,2 +1,2 @@
 # blog
-Daily blog for programing
+Some note for programing
