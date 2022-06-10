@@ -1,3 +1,3 @@
-# Frontend learning blog
+# Soft Engineer Learning Blog
 
-簡單紀錄一下學習前端相關知識所遇到的問題或解決方案
+簡單紀錄一下學習軟體、程式相關知識所遇到的問題或解決方案
